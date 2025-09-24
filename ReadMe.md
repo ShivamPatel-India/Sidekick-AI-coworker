@@ -1,3 +1,9 @@
+---
+title: Sidekick_AI_Coworker
+app_file: src/app.py
+sdk: gradio
+sdk_version: 5.47.0
+---
 # Sidekick Personal Co-Worker 🤖
 
 An intelligent AI assistant that automates complex tasks through web browsing, file management, and code execution. Built with LangGraph workflows, it features a built-in evaluation system that ensures tasks meet your specific success criteria before completion. Think of it as your digital coworker that can research, analyze, create reports, and send you mobile notifications when tasks are done.
